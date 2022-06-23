@@ -1,2 +1,1 @@
-# Simple-Websites-Drum-Master
-# Drum-Master
+A simple browser game created using JS/jQuery
